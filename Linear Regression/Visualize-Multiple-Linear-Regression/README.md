@@ -1,1 +1,3 @@
-# Visualize-Multiple-Linear-Regression
+## Visualize-Multiple-Linear-Regression
+
+run python multiplelinear.py
