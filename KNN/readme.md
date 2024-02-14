@@ -1,1 +1,3 @@
-Run KNN.py
+## K-Nearest Neighbors (KNN)
+run python KNN.py
+
